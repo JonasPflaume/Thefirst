@@ -1,6 +1,6 @@
 ### small playground  
-#### ML implementation based on <pattern recognation and machine learning>
-#### RL implemetation is practical use of what depicted in <deep reinforcement learning hands on 2nd Maxim Lapan>
+#### ML implementation based on >pattern recognation and machine learning
+#### RL implemetation is practical use of what depicted in >deep reinforcement learning hands on 2nd Maxim Lapan
 
 ENV:  
 gym==0.15.3  
