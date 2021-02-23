@@ -1,4 +1,4 @@
-### small playground  
+### Small Playground during study
 #### ML implementation based on 
 >pattern recognation and machine learning BISHOP
 #### RL implemetation is practical use of what depicted in 
