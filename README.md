@@ -1,6 +1,7 @@
 ### Small Playground during study
 #### ML implementation based on 
->pattern recognation and machine learning BISHOP  
+>pattern recognation and machine learning BISHOP 
+
 Page number will be marked inner notebook  
 
 
