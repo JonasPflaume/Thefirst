@@ -1,8 +1,8 @@
 ### Small Playground during study
 #### ML implementation based on 
->pattern recognation and machine learning BISHOP
-#### RL implemetation is practical use of what depicted in 
->deep reinforcement learning hands on 2nd Maxim Lapan
+>pattern recognation and machine learning BISHOP  
+Page number will be marked inner notebook  
+
 
 ENV:  
 gym==0.15.3  
