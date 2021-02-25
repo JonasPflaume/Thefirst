@@ -3,6 +3,7 @@
 >pattern recognation and machine learning BISHOP  
 Page number will be marked inner notebook  
 
+#### There is also a folder, in which are all homework answer of machine learning 1 from tu berlin. 
 
 ENV:  
 gym==0.15.3  
