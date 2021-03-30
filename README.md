@@ -1,4 +1,4 @@
-### Small Playground during study
+### Playground during study
 #### ML implementation based on 
 >pattern recognation and machine learning BISHOP 
 
