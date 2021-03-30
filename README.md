@@ -4,7 +4,7 @@
 
 Page number will be marked inner notebook  
 
-#### ML1 contrain all the self write answer of HW from tu berlin machine learning 1.
+#### ML1 contains the self wrote answer of HW from tu berlin machine learning 1.
 
 ENV:  
 gym==0.15.3  
