@@ -4,7 +4,7 @@
 
 Page number will be marked inner notebook  
 
-#### There is also a folder, in which there are all homework answers of machine learning 1 from tu berlin. 
+#### ML1 contrain all the self write answer of HW from tu berlin machine learning 1.
 
 ENV:  
 gym==0.15.3  
